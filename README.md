@@ -150,7 +150,7 @@ meeting-room-manager/
 
 ## Documentation
 
-### [User Guide](docs/guide.html)
+### [User Guide](docs/guide.pdf)
 Step-by-step instructions for all four operations with screenshots. Covers both the CMD launcher and direct PowerShell launch methods including execution policy setup.
 
 ### [Excel Requirements](docs/excel-requirements.pdf)
