@@ -164,9 +164,6 @@ Eight development iterations from initial proof-of-concept through to v2.3, docu
 
 ---
 
-## Related projects
-
-This tool is one of two PowerShell automation projects built during my time as an M365 Administrator. The other — **Folder Access Permission Tool** — automates Exchange Online mailbox permission grants and removals, reducing resolution time for access requests from approximately 3 days to 10–15 minutes.
 
 ---
 
