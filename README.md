@@ -164,7 +164,4 @@ Eight development iterations from initial proof-of-concept through to v2.3, docu
 
 ---
 
-
----
-
 *Shared for portfolio and demonstration purposes. Organisation-specific identifiers have been replaced with generic equivalents.*
